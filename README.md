@@ -1,5 +1,12 @@
 ## Olá, sou Gabriel Ferraz, Analista de TI & Desenvolvedor Python | Javascript | React | NodeJS
 
+<div>
+  <a href="https://github.com/gabrielferrazz">
+  <img heigth="180cm" src="https://github-readme-stats.vercel.app/api?username=gabrielferrazz&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img heigth="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielferrazz&layout=compact&langs_count=16&theme=merko"/>
+</div
+
+##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
