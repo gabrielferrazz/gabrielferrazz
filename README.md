@@ -1,4 +1,4 @@
-## Olá, sou Gabriel Ferraz, Analista de TI & Desenvolvedor Python | Javascript | React | NodeJS
+## Analista de TI & Desenvolvedor Python | Javascript | React | NodeJS
 
 <div>
   <a href="https://github.com/gabrielferrazz">
