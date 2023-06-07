@@ -1,4 +1,4 @@
-## Analista de TI & Desenvolvedor Python | Javascript | React | NodeJS
+## Analista Desenvolvedor Python | Javascript | Reagir | NodeJS
 
 <div>
   <a href="https://github.com/gabrielferrazz">
