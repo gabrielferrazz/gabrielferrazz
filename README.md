@@ -1,4 +1,4 @@
-## Engenheiro | Analista Desenvolvedor Jr | Python | Javascript | Reagir | NodeJS
+## Engenheiro | Analista Desenvolvedor Jr | Python | Javascript | React | NodeJS
 
 <div>
   <a href="https://github.com/gabrielferrazz">
