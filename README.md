@@ -26,7 +26,3 @@
   <img alt="github-snake" src="https://github.com/gabrielferrazz/gabrielferrazz/blob/output/github-snake.svg">
 </picture> 
 
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
