@@ -11,8 +11,8 @@
 # <b> Github Stats </b> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 <div>
   <a href="https://github.com/gabrielferrazz">
-  <img alt="top-langs" align="center" height="169" src="https://github-readme-stats.vercel.app/api?username=gabrielferrazz&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img alt="commits" align="center" height="169" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielferrazz&layout=compact&langs_count=16&theme=merko"/>
+  <img alt="top-langs" align="center" height="171" src="https://github-readme-stats.vercel.app/api?username=gabrielferrazz&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img alt="commits" align="center" height="171" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielferrazz&layout=compact&langs_count=16&theme=merko"/>
 </div
 
 ##
