@@ -10,7 +10,7 @@
 # <b> Github Stats </b> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 <div>
 <a href="https://github.com/gabrielferrazz">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gabrielferrazz&show_icons=theme$theme=slateorange&include_all_commits=true&count_private=true/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gabrielferrazz&show_icons=theme$theme=slateorange&include_all_commits=true&count_private=true"/>
 <a href="https://github.com/gabrielferrazz">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=gabrielferrazz&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
