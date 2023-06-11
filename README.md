@@ -11,7 +11,6 @@
 <div>
 <a href="https://github.com/gabrielferrazz">
 <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=gabrielferrazz&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
-<a href="https://github.com/gabrielferrazz">
 <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielferrazz&layout=compact&langs_count=16&theme=slateorange&hide"/>
 </div>
 
