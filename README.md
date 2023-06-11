@@ -10,9 +10,9 @@
 # <b> Github Stats </b> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 <div>
 <a href="https://github.com/gabrielferrazz">
-<img height="170" src="https://github-readme-stats-seven-navy-90.vercel.app/api/top-langs/?username=gabrielferrazz&layout=compact&langs_count=16&theme=slateorange&hide=jupyter%20notebook"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielferrazz&layout=compact&langs_count=16&theme=slateorange&hide=jupyter%20notebook"/>
 <a href="https://github.com/gabrielferrazz">
-<img height="170" src="https://github-readme-stats-seven-navy-90.vercel.app/api?username=gabrielferrazz&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true&hide=issues"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gabrielferrazz&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
 
 <div style="display: inline_block"><br>
