@@ -12,6 +12,7 @@
 <div>
 <a href="https://github.com/gabrielferrazz">
 <img alt="top-langs" align="center" height="170" src="https://github-readme-stats-seven-navy-90.vercel.app/api/top-langs/?username=gabrielferrazz&layout=compact&langs_count=16&theme=slateorange&hide=jupyter%20notebook"/>
+<a href="https://github.com/gabrielferrazz">
 <img alt="commits" align="center" height="170" src="https://github-readme-stats-seven-navy-90.vercel.app/api?username=gabrielferrazz&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
 
