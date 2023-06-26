@@ -36,4 +36,3 @@ Engenheiro Mecânico | Técnico Assistente de TI | Python | Power BI | SQL |
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-![gbairelferrazz GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielferrazz&show_icons=true&theme=gotham&count_private=true)
