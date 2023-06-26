@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=&height=100&section=header"/>
 </p>
 
-# <b> About me </b> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img align="center" height="40" src="https://readme-typing-svg.herokuapp.com?lines=Brazilian+🇧🇷+🟩;Engenheiro+Mecânico+⚙️;Tecnico+Assistente+de+TI+📚;Pythonista+🐍;Power+BI+📈;SQL+📃"></a>
+# <b> About me </b> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img align="center" height="40" src="https://readme-typing-svg.herokuapp.com?lines=Brazilian+🇧🇷+🟩;Engenheiro+Mecânico+⚙️;Técnico+Assistente+de+TI+📚;Pythonista+🐍;Power+BI+📈;SQL+📃"></a>
 Engenheiro Mecânico | Técnico Assistente de TI | Python | Power BI | SQL |
 
 <!-- GitHub Stats splitted in the same div -->
