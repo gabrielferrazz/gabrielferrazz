@@ -27,7 +27,7 @@
   
 # <h1 align="center"> <img src="https://i.giphy.com/media/u5DoW5LsP16fiyvyTW/giphy.webp" width="35"> <b> Languages & Frameworks & Tools & Abilities </b> <img src="https://i.giphy.com/media/u5DoW5LsP16fiyvyTW/giphy.webp" width="35"> </h1>
 
-<br align="center">
+<p align="center">
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
@@ -35,7 +35,7 @@
   <code><img title="PowerBI" height="25" src="images/PBI.png"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-</br>
+</p>
 
 <!-- GitHub Stats splitted in the same div -->
 # <h1 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b> Github Stats </b> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> </h1>
