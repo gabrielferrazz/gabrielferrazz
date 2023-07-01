@@ -48,7 +48,8 @@
 
 
 <!-- Stats -->
-# <h1 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b> Github Stats </b> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> </h1>
+<hr>
+<h1 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b> Github Stats </b> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> </h1>
 
 <div>
 <a href="https://github.com/gabrielferrazz">
@@ -61,7 +62,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/gabrielferrazz/gabrielferrazz/blob/output/github-snake.svg">
   <img alt="github-snake" src="https://github.com/gabrielferrazz/gabrielferrazz/blob/output/github-snake.svg">
 </picture> 
-
+</hr>
 
 <!-- Repositorios -->  
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
