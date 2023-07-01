@@ -25,7 +25,7 @@
 
   
   
-<h1 align="center"> <img src="https://i.giphy.com/media/u5DoW5LsP16fiyvyTW/giphy.webp" width="35"> <b> Languages & Frameworks & Tools & Abilities </b> <img src="https://i.giphy.com/media/u5DoW5LsP16fiyvyTW/giphy.webp" width="35"> </h1>
+# <h1 align="center"> <img src="https://i.giphy.com/media/u5DoW5LsP16fiyvyTW/giphy.webp" width="35"> <b> Languages & Frameworks & Tools & Abilities </b> <img src="https://i.giphy.com/media/u5DoW5LsP16fiyvyTW/giphy.webp" width="35"> </h1>
 
 <p align="center">
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
@@ -38,7 +38,7 @@
 </p>
 
 <!-- GitHub Stats splitted in the same div -->
-<h1 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b> Github Stats </b> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> </h1>
+# <h1 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b> Github Stats </b> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> </h1>
 
 <div>
 <a href="https://github.com/gabrielferrazz">
