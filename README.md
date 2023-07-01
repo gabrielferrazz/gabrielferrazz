@@ -10,7 +10,7 @@
   <code><a href="https://www.instagram.com/feerraazz/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
-<p align="center">
+<p>
   Olá, Eu sou Gabriel Ferraz, Engenheiro Mecânico & Técnico Assistente de TI & Developer Student.
   <br>
   <br>
@@ -22,9 +22,9 @@
   <br>
   
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2>🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
-<p align="center">
+<p>
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
