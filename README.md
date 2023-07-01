@@ -29,7 +29,7 @@
   
   
 <!-- Habilidades --> 
-# <img src="https://i.giphy.com/media/u5DoW5LsP16fiyvyTW/giphy.webp" width="35"> <b> Languages & Frameworks & Tools & Abilities </b> <img src="https://i.giphy.com/media/u5DoW5LsP16fiyvyTW/giphy.webp" width="35"> </h1>
+# <img src="https://i.giphy.com/media/u5DoW5LsP16fiyvyTW/giphy.webp" width="35"> <b> Languages & Frameworks & Tools & Abilities </b> <img src="https://i.giphy.com/media/u5DoW5LsP16fiyvyTW/giphy.webp" width="35">
 
 <p align="center">
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
