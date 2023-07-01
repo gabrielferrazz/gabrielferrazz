@@ -21,7 +21,7 @@
   💻 Amo estudar e aprender sobre Tecnologia.
   <br>
   
-#<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+# <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 
 
 <p align="center">
