@@ -30,7 +30,7 @@
   
 <!-- Habilidades --> 
 <hr>
-# <h1 align="center"> <img src="https://i.giphy.com/media/u5DoW5LsP16fiyvyTW/giphy.webp" width="35"> Languages & Frameworks & Tools & Abilities <img src="https://i.giphy.com/media/u5DoW5LsP16fiyvyTW/giphy.webp" width="35">
+<h1 align="center"> <img src="https://i.giphy.com/media/u5DoW5LsP16fiyvyTW/giphy.webp" width="35"> Languages & Frameworks & Tools & Abilities <img src="https://i.giphy.com/media/u5DoW5LsP16fiyvyTW/giphy.webp" width="35">
 
 <p align="center">
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
