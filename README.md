@@ -4,6 +4,7 @@
 </p>
 
 <!-- Sobre mim -->
+<hr>
 # <b> About me </b> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img align="center" height="40" src="https://readme-typing-svg.herokuapp.com?lines=Brazilian+🇧🇷+🟩;Engenheiro+Mecânico+⚙️;Técnico+Assistente+de+TI+📚;Pythonista+🐍;Power+BI+📈;SQL+📃"></a>
 
 <!-- Icones Redes Sociais -->
@@ -25,7 +26,8 @@
   <br>
   <br>
   <br>
-
+</p>
+</hr>
   
   
 <!-- Habilidades --> 
