@@ -4,8 +4,23 @@
 </p>
 
 # <b> About me </b> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img align="center" height="40" src="https://readme-typing-svg.herokuapp.com?lines=Brazilian+🇧🇷+🟩;Engenheiro+Mecânico+⚙️;Técnico+Assistente+de+TI+📚;Pythonista+🐍;Power+BI+📈;SQL+📃"></a>
-Engenheiro Mecânico | Técnico Assistente de TI | Python | Power BI | SQL |
 
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/gabriel-ferraz-9aab82b9/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.instagram.com/feerraazz/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+</h5>
+<br>
+<p align="center">
+  Olá, Eu sou Gabriel Ferraz, Engenheiro Mecânico & Analista de Sistema & Software Developer Python Jr
+  <br>
+  <br>
+  🔬 Atualmente estou estudando algumas linguagens de programação e alguns FrameWorks
+  <br>
+  🎓 Sou formado em Engenharia Mecânica
+  <br>
+  💻 Amo estudar e aprender sobre Tecnologia
+  <br>
+  
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
