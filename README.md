@@ -46,7 +46,7 @@ Engenheiro Mecânico | Técnico Assistente de TI | Python | Power BI | SQL |
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/gabrielferrazz/gabrielferrazz" title="gabrielferrazz"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielferrazz&repo=gabrielferrazz&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/gabrielferrazz/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielferrazz&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/gabrielferrazz/GitTutorial" title="GitTutorial"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielferrazz&repo=GitTutorial&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
