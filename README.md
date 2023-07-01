@@ -11,14 +11,14 @@
 </h5>
 <br>
 <p align="center">
-  Olá, Eu sou Gabriel Ferraz, Engenheiro Mecânico & Analista de Sistema & Software Developer Python Jr
+  Olá, Eu sou Gabriel Ferraz, Engenheiro Mecânico, Técnico Assistente de TI & Developer Student.
   <br>
   <br>
-  🔬 Atualmente estou estudando algumas linguagens de programação e alguns FrameWorks
+  🔬 Atualmente estou estudando algumas linguagens de programação e alguns FrameWorks.
   <br>
-  🎓 Sou formado em Engenharia Mecânica
+  🎓 Sou formado em Engenharia Mecânica.
   <br>
-  💻 Amo estudar e aprender sobre Tecnologia
+  💻 Amo estudar e aprender sobre Tecnologia.
   <br>
   
 <hr>
@@ -70,18 +70,6 @@
   <a href="https://github.com/gabrielferrazz?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
-<!--  
-<!-- Markdown table with a bunch of ugly html -->
-<!-- # <b> Skills & Stack </b> <img align="top" height="20" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">  
-<div style="display: inline_block"><br>
-<!---<img align="center" alt="gabrielferrazz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg--->
-<!---<img align="center" alt="gabrielferrazz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">--->
-<!---<img align="center" alt="gabrielferrazz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">--->
-<!-- <img align="center" alt="gabrielferrazz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="gabrielferrazz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="gabrielferrazz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
--->
 <!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
