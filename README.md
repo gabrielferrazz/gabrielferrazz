@@ -9,7 +9,7 @@
   <code><a href="https://www.linkedin.com/in/gabriel-ferraz-9aab82b9/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.instagram.com/feerraazz/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
-<br>
+
 <p>
   Olá, Eu sou Gabriel Ferraz, Engenheiro Mecânico & Técnico Assistente de TI & Developer Student.
   <br>
