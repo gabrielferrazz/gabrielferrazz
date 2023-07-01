@@ -75,3 +75,5 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
+<iframe src="https://giphy.com/embed/u5DoW5LsP16fiyvyTW" width="381" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/fire-blue-wisp-u5DoW5LsP16fiyvyTW">via GIPHY</a></p>
+
