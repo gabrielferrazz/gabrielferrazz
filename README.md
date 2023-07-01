@@ -21,7 +21,7 @@
   💻 Amo estudar e aprender sobre Tecnologia.
   <br>
   
-<h1 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">  Languages & Frameworks & Tools & Abilities <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> 
+<h1 align="center"> <img src="[https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif](https://giphy.com/stickers/fire-blue-wisp-u5DoW5LsP16fiyvyTW)" width="35">  Languages & Frameworks & Tools & Abilities <img src="[https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif](https://giphy.com/stickers/fire-blue-wisp-u5DoW5LsP16fiyvyTW)" width="35"> 
 </h1>
 
 <p align="center">
