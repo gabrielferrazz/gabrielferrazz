@@ -11,7 +11,7 @@
 </h5>
 <br>
 <p align="center">
-  Olá, Eu sou Gabriel Ferraz, Engenheiro Mecânico, Técnico Assistente de TI & Developer Student.
+  Olá, Eu sou Gabriel Ferraz, Engenheiro Mecânico & Técnico Assistente de TI & Developer Student.
   <br>
   <br>
   🔬 Atualmente estou estudando algumas linguagens de programação e alguns FrameWorks.
