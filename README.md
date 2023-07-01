@@ -1,15 +1,18 @@
-<!-- Header -->
+<!-- Cabeçalho -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=&height=100&section=header"/>
 </p>
 
+<!-- About-me -->
 # <b> About me </b> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img align="center" height="40" src="https://readme-typing-svg.herokuapp.com?lines=Brazilian+🇧🇷+🟩;Engenheiro+Mecânico+⚙️;Técnico+Assistente+de+TI+📚;Pythonista+🐍;Power+BI+📈;SQL+📃"></a>
 
+<!-- Icones Redes Sociais -->
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/gabriel-ferraz-9aab82b9/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.instagram.com/feerraazz/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 
+<!-- Descrição -->
 <p>
   Olá, Eu sou Gabriel Ferraz, Engenheiro Mecânico & Técnico Assistente de TI & Developer Student.
   <br>
@@ -25,6 +28,7 @@
 
   
   
+<!-- Habilidades --> 
 # <h1 align="center"> <img src="https://i.giphy.com/media/u5DoW5LsP16fiyvyTW/giphy.webp" width="35"> <b> Languages & Frameworks & Tools & Abilities </b> <img src="https://i.giphy.com/media/u5DoW5LsP16fiyvyTW/giphy.webp" width="35">
 
 <p align="center">
@@ -38,7 +42,7 @@
 </p>
 </h1>
 
-<!-- GitHub Stats splitted in the same div -->
+<!-- Stats -->
 # <h1 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b> Github Stats </b> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> </h1>
 
 <div>
@@ -52,7 +56,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/gabrielferrazz/gabrielferrazz/blob/output/github-snake.svg">
   <img alt="github-snake" src="https://github.com/gabrielferrazz/gabrielferrazz/blob/output/github-snake.svg">
 </picture> 
-  
+
+
+<!-- Repositorios -->  
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
@@ -75,7 +81,7 @@
   <a href="https://github.com/gabrielferrazz?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
-<!-- Footer -->
+<!-- Rodapé -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
