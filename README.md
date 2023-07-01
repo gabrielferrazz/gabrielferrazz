@@ -20,6 +20,8 @@
   <br>
   💻 Amo estudar e aprender sobre Tecnologia.
   <br>
+  <br>
+  <br>
   
 # <b> Languages & Frameworks & Tools & Abilities </b>
 
