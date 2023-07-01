@@ -34,7 +34,7 @@
 </p>
 
 <!-- GitHub Stats splitted in the same div -->
-# <b> Github Stats </b> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+<h2 align="center"> Github Stats </h2> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 <div>
 <a href="https://github.com/gabrielferrazz">
 <img alt="top-langs" align="center" width="45%" src="https://github-readme-stats-seven-navy-90.vercel.app/api/top-langs/?username=gabrielferrazz&layout=compact&langs_count=16&theme=gotham&hide=jupyter%20notebook"/>
