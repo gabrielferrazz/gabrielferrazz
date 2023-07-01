@@ -22,8 +22,7 @@
   <br>
   
 <h1 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h1>
-
-
+<br>
 <p align="center">
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
@@ -33,7 +32,7 @@
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
 </p>
-
+</br>
 <!-- GitHub Stats splitted in the same div -->
 # <b> Github Stats </b> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 <div>
