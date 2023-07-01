@@ -21,7 +21,7 @@
   💻 Amo estudar e aprender sobre Tecnologia.
   <br>
   
-<h1 align="center"> Languages & Frameworks & Tools & Abilities </h1> <img src="https://giphy.com/stickers/fire-blue-wisp-u5DoW5LsP16fiyvyTW" width="35">
+<h1 align="center"> Languages & Frameworks & Tools & Abilities </h1>
 
 <p align="center">
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
