@@ -19,7 +19,21 @@ Engenheiro Mecânico | Técnico Assistente de TI | Python | Power BI | SQL |
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/gabrielferrazz/gabrielferrazz/blob/output/github-snake.svg">
   <img alt="github-snake" src="https://github.com/gabrielferrazz/gabrielferrazz/blob/output/github-snake.svg">
 </picture> 
-  
+
+<hr>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<br>
+<p align="center">
+  <code><img title="Python" height="25" src="images/python-original.svg"></code>
+  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="images/css.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
+  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
+  <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+</p>
+<hr>
+
 <!--  
 <!-- Markdown table with a bunch of ugly html -->
 <!-- # <b> Skills & Stack </b> <img align="top" height="20" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">  
