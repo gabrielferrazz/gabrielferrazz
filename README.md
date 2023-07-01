@@ -31,7 +31,6 @@
 <!-- Habilidades --> 
 <hr>
 <h1 align="center"> <img src="https://i.giphy.com/media/u5DoW5LsP16fiyvyTW/giphy.webp" width="35"> Languages & Frameworks & Tools & Abilities <img src="https://i.giphy.com/media/u5DoW5LsP16fiyvyTW/giphy.webp" width="35">
-<br>
   <br>
   <br>
 <p align="center">
