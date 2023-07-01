@@ -5,7 +5,8 @@
 
 <!-- Sobre mim -->
 <hr>
-<h1> About me <a href="https://github.com/DenverCoder1/readme-typing-svg"><img align="center" height="40" src="https://readme-typing-svg.herokuapp.com?lines=Brazilian+🇧🇷+🟩;Engenheiro+Mecânico+⚙️;Técnico+Assistente+de+TI+📚;Pythonista+🐍;Power+BI+📈;SQL+📃"></a> </h1>
+<h1> About me <a href="https://github.com/DenverCoder1/readme-typing-svg"><img align="center" height="40" src="https://readme-typing-svg.herokuapp.com?lines=Brazilian+🇧🇷+🟩;Engenheiro+Mecânico+⚙️;Técnico+Assistente+de+TI+📚;Pythonista+🐍;Power+BI+📈;SQL+📃"></a>
+  
 <!-- Icones Redes Sociais -->
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/gabriel-ferraz-9aab82b9/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
