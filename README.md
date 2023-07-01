@@ -23,9 +23,7 @@
   <br>
   <br>
   
-# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b> Languages & Frameworks & Tools & Abilities </b> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-
-https://giphy.com/stickers/fire-blue-wisp-u5DoW5LsP16fiyvyTW
+# <img src="https://giphy.com/stickers/fire-blue-wisp-u5DoW5LsP16fiyvyTW" width="35"> <b> Languages & Frameworks & Tools & Abilities </b> <img src="https://giphy.com/stickers/fire-blue-wisp-u5DoW5LsP16fiyvyTW" width="35">
 
 <p align="center">
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
