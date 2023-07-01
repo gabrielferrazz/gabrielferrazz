@@ -6,20 +6,6 @@
 # <b> About me </b> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img align="center" height="40" src="https://readme-typing-svg.herokuapp.com?lines=Brazilian+🇧🇷+🟩;Engenheiro+Mecânico+⚙️;Técnico+Assistente+de+TI+📚;Pythonista+🐍;Power+BI+📈;SQL+📃"></a>
 Engenheiro Mecânico | Técnico Assistente de TI | Python | Power BI | SQL |
 
-<!-- GitHub Stats splitted in the same div -->
-# <b> Github Stats </b> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-<div>
-<a href="https://github.com/gabrielferrazz">
-<img alt="top-langs" align="center" width="45%" src="https://github-readme-stats-seven-navy-90.vercel.app/api/top-langs/?username=gabrielferrazz&layout=compact&langs_count=16&theme=gotham&hide=jupyter%20notebook"/>
-<a href="https://github.com/gabrielferrazz">
-<img alt="commits" align="center" width="48%" src="https://github-readme-stats-seven-navy-90.vercel.app/api?username=gabrielferrazz&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide=issues"/>
-</div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gabrielferrazz/gabrielferrazz/blob/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/gabrielferrazz/gabrielferrazz/blob/output/github-snake.svg">
-  <img alt="github-snake" src="https://github.com/gabrielferrazz/gabrielferrazz/blob/output/github-snake.svg">
-</picture> 
-
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
@@ -33,6 +19,20 @@ Engenheiro Mecânico | Técnico Assistente de TI | Python | Power BI | SQL |
 </p>
 <hr>
 
+<!-- GitHub Stats splitted in the same div -->
+# <b> Github Stats </b> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+<div>
+<a href="https://github.com/gabrielferrazz">
+<img alt="top-langs" align="center" width="45%" src="https://github-readme-stats-seven-navy-90.vercel.app/api/top-langs/?username=gabrielferrazz&layout=compact&langs_count=16&theme=gotham&hide=jupyter%20notebook"/>
+<a href="https://github.com/gabrielferrazz">
+<img alt="commits" align="center" width="48%" src="https://github-readme-stats-seven-navy-90.vercel.app/api?username=gabrielferrazz&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide=issues"/>
+</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gabrielferrazz/gabrielferrazz/blob/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/gabrielferrazz/gabrielferrazz/blob/output/github-snake.svg">
+  <img alt="github-snake" src="https://github.com/gabrielferrazz/gabrielferrazz/blob/output/github-snake.svg">
+</picture> 
+  
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
