@@ -32,7 +32,7 @@
   <br>
   <br>
 <p align="center">
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
+  <code><img title="Python" height="50" src="images/python-original.svg"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
