@@ -28,7 +28,7 @@
   
 <!-- Habilidades e Frameworks --> 
 <hr>
-<h1> <img src="https://i.giphy.com/media/u5DoW5LsP16fiyvyTW/giphy.webp" width="35"> Languages & Frameworks & Tools & Abilities <img src="https://i.giphy.com/media/u5DoW5LsP16fiyvyTW/giphy.webp" width="35">
+<h1> Languages & Frameworks & Tools & Abilities <img src="https://i.giphy.com/media/u5DoW5LsP16fiyvyTW/giphy.webp" width="35">
   <br>
   <br>
 <p align="center">
