@@ -53,6 +53,8 @@
 <a href="https://github.com/gabrielferrazz">
 <img alt="commits" align="center" width="48%" src="https://github-readme-stats-seven-navy-90.vercel.app/api?username=gabrielferrazz&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
+
+<!-- Cobrinha -->  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gabrielferrazz/gabrielferrazz/blob/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/gabrielferrazz/gabrielferrazz/blob/output/github-snake.svg">
