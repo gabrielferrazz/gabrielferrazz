@@ -48,11 +48,13 @@
 <div>
 <h1> Github Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> </h1>
 <br>
-
+<br>
+<p>
 <a href="https://github.com/gabrielferrazz">
 <img alt="top-langs" align="center" width="45%" src="https://github-readme-stats-seven-navy-90.vercel.app/api/top-langs/?username=gabrielferrazz&layout=compact&langs_count=16&theme=gotham&hide=jupyter%20notebook"/>
 <a href="https://github.com/gabrielferrazz">
 <img alt="commits" align="center" width="48%" src="https://github-readme-stats-seven-navy-90.vercel.app/api?username=gabrielferrazz&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide=issues"/>
+</p>
 </div>
 
 <!-- Cobrinha -->  
