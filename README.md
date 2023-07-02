@@ -45,7 +45,7 @@
 
 <!-- Stats -->
 <hr>
-<h1> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b> Github Stats </b> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> </h1>
+<h1> Github Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> </h1>
 
 <div>
 <a href="https://github.com/gabrielferrazz">
