@@ -59,7 +59,7 @@
 
 <!-- Cobrinha -->  
 <picture>
-  ![Snake animation](https://github.com/gabrielferrazz/gabrielferrazz/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gabrielferrazz/gabrielferrazz/blob/output/github-contribution-grid-snake.svg)
 </picture> 
 </hr>
 
