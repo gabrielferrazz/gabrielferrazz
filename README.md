@@ -57,7 +57,7 @@
 </p>
 </div>
 
-<!-- Cobrinha -->  
+<!-- Cobrinha pausada com erro.
 <div>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gabrielferrazz/gabrielferrazz/blob/output/github-snake-dark.svg">
@@ -66,6 +66,8 @@
   </picture> 
 </div>
 </hr>
+--> 
+
 
 <!-- Repositorios -->  
 <hr>
