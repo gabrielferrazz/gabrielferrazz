@@ -58,7 +58,7 @@
 </div>
 
 <!-- Cobrinha -->  
-<div align="center">
+<div>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gabrielferrazz/gabrielferrazz/blob/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/gabrielferrazz/gabrielferrazz/blob/output/github-snake.svg">
