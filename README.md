@@ -20,6 +20,8 @@
   <br>
   💻 Amo estudar e aprender sobre Tecnologia.
   <br>
+  📚 Cursos Realizados - https://www.udemy.com/user/gabriel-ferraz-rezende-de-andrade/
+  <br>
   <br>
   <br>
 </p>
