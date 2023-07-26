@@ -80,7 +80,7 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/gabrielferrazz/Validador_de_CPF" title="Validador_de_CPF"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielferrazz&repo=Validador_de_CPF&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/gabrielferrazz/Dashboard_Office365" title="Dashboard_Office365"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielferrazz&repo=Dashboard_Office365&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/gabrielferrazz/API_Cotacoes" title="API_Cotacoes"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielferrazz&repo=API_Cotacoes&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
