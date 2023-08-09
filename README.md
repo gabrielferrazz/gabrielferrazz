@@ -5,7 +5,7 @@
 
 <!-- Sobre mim -->
 <hr>
-<h1> About me <a href="https://github.com/DenverCoder1/readme-typing-svg"><img align="center" height="40" src="https://readme-typing-svg.herokuapp.com?lines=Brazilian+🇧🇷+🟩;Engenheiro+Mecânico+⚙️;Técnico+Assistente+de+TI+📚;Pythonista+🐍;Power+BI+📈;SQL+📃"></a></h1>
+<h1> About me <a href="https://github.com/DenverCoder1/readme-typing-svg"><img align="center" height="40" src="https://readme-typing-svg.herokuapp.com?lines=Brazilian+🇧🇷+🟩;Engenheiro+Mecânico+⚙️;Técnico+Assistente+de+TI+📚;Pythonista+🐍"></a></h1>
 <br>
 
 
@@ -38,9 +38,7 @@
   <code><img title="HTML5" height="45" src="images/html5.svg"></code>
   <code><img title="CSS" height="45" src="images/css.svg"></code>
   <code><img title="Visual Studio Code" height="45" src="images/vscode.png"></code>
-  <code><img title="PowerBI" height="45" src="images/PBI.png"></code>
   <code><img title="GitHub" height="45" src="images/github.svg"></code>
-  <code><img title="MySQL" height="45" src="images/mysql.svg"></code>
 </p>
 </hr>
 
