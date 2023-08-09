@@ -20,7 +20,7 @@
   <br>
   💻 Amo estudar e aprender sobre Tecnologia.
   <br>
-  📚 Cursos Realizados - https://www.udemy.com/user/gabriel-ferraz-rezende-de-andrade/
+  📚 Cursos Realizados - Python - SQL - Fortigate - Desenvolvimento Web
   <br>
   <br>
   <br>
