@@ -18,7 +18,7 @@
   <br>
   🎓 Sou formado em Engenharia Mecânica.
   <br>
-  💻 Amo estudar e aprender sobre Tecnologia.
+  💻 Viciado em estudar e aprender sobre Tecnologia.
   <br>
   📚 Cursos Realizados - Python - SQL - Fortigate - Desenvolvimento Web
   <br>
