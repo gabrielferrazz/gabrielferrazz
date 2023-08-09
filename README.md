@@ -70,7 +70,7 @@
 </hr>
 
 
-<!-- Repositorios -->  
+<!-- Repositorios -->   
 <hr>
 <h2>👨‍💻 Repositories 👨‍💻</h2>
 <br>
