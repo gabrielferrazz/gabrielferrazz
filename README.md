@@ -11,7 +11,7 @@
 
 <!-- Descrição -->
 <p>
-  Olá, Eu sou Gabriel Ferraz, Engenheiro Mecânico & Técnico Assistente de TI & Developer Student.
+  Olá, me chamo Gabriel Ferraz, Engenheiro Mecânico & Técnico Assistente de TI & Developer Student.
   <br><br>
   🔬 Atualmente estou estudando algumas linguagens de programação e alguns FrameWorks | Python | Power BI | MySQL | etc...
   <br>
