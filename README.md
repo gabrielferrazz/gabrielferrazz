@@ -11,7 +11,7 @@
 
 <!-- Descrição -->
 <p>
-  Olá, me chamo Gabriel Ferraz, sou formado em Engenharia Mecânica, trabalho comom Técnico Assistente de TI e sou estudante de desenvolvimento.
+  Olá, me chamo Gabriel Ferraz, sou formado em Engenharia Mecânica, trabalho com Tecnologia & Inovação e sou estudante de desenvolvimento.
   <br><br>
   🔬 Atualmente estou estudando algumas linguagens de programação e alguns FrameWorks | Python | Power BI | MySQL | etc...
   <br>
