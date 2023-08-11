@@ -12,8 +12,7 @@
 <!-- Descrição -->
 <p>
   Olá, Eu sou Gabriel Ferraz, Engenheiro Mecânico & Técnico Assistente de TI & Developer Student.
-  <br>
-  <br>
+  <br><br>
   🔬 Atualmente estou estudando algumas linguagens de programação e alguns FrameWorks | Python | Power BI | MySQL | etc...
   <br>
   🎓 Sou formado em Engenharia Mecânica.
@@ -21,9 +20,7 @@
   💻 Viciado em estudar e aprender sobre Tecnologia.
   <br>
   📚 Cursos Realizados - Python - SQL - Fortigate - Desenvolvimento Web
-  <br>
-  <br>
-  <br>
+  <br><br><br>
 </p>
 </hr>
   
