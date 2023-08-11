@@ -28,8 +28,7 @@
 <!-- Habilidades e Frameworks --> 
 <hr>
 <h1> Languages & Frameworks & Tools & Abilities <img src="https://i.giphy.com/media/u5DoW5LsP16fiyvyTW/giphy.webp" width="35">
-  <br>
-  <br>
+  <br><br>
 <p align="center">
   <code><img title="Python" height="45" src="images/python-original.svg"></code>
   <code><img title="HTML5" height="45" src="images/html5.svg"></code>
@@ -44,8 +43,7 @@
 <hr>
 <div>
 <h4> Github Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-<br>
-  <br>
+<br><br>
 <p>
 <a href="https://github.com/gabrielferrazz">
 <img alt="top-langs" align="center" width="45%" src="https://github-readme-stats-seven-navy-90.vercel.app/api/top-langs/?username=gabrielferrazz&layout=compact&langs_count=16&theme=gotham&hide=jupyter%20notebook"/>
