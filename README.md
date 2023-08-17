@@ -13,13 +13,13 @@
 <p>
   Olá, me chamo Gabriel Ferraz, sou formado em Engenharia Mecânica, trabalho com Tecnologia & Inovação e sou estudante de desenvolvimento.
   <br><br>
-  🔬 Atualmente estou estudando algumas linguagens de programação e alguns FrameWorks | Python | Power BI | MySQL | etc...
+  🔬 Atualmente estou estudando algumas linguagens de programação e alguns FrameWorks | Python | Desenvolvimento Front End | SQL...
   <br>
   🎓 Sou formado em Engenharia Mecânica.
   <br>
   💻 Viciado em estudar e aprender sobre Tecnologia.
   <br>
-  📚 Cursos Realizados - Python - SQL - Fortigate - Desenvolvimento Web
+  📚 Cursos Realizados - Python - SQL - Fortigate - Desenvolvimento Front End
   <br><br><br>
 </p>
 </hr>
