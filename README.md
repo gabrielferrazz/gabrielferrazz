@@ -42,17 +42,17 @@
 <!-- Stats -->
 <hr>
 <div>
-  <h4> Github Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> </h4>
-  <div style="display: flex; justify-content: space-between;">
+  <h4> Github Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></h4>
+  <br><br>
+  <div style="display: flex;">
     <a href="https://github.com/gabrielferrazz" style="flex: 1; margin-right: 10px;">
       <img alt="top-langs" align="center" width="100%" src="https://github-readme-stats-seven-navy-90.vercel.app/api/top-langs/?username=gabrielferrazz&layout=compact&langs_count=16&theme=gotham&hide=jupyter%20notebook"/>
     </a>
-    <a href="https://github.com/gabrielferrazz" style="flex: 1; margin-left: 10px;">
+    <a href="https://github.com/gabrielferrazz" style="flex: 1;">
       <img alt="commits" align="center" width="100%" src="https://github-readme-stats-seven-navy-90.vercel.app/api?username=gabrielferrazz&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide=issues"/>
     </a>
   </div>
 </div>
-
 
 
 <!-- Snake --->
