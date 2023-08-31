@@ -39,22 +39,18 @@
 </hr>
 
 
-<<!-- Stats -->
+<!-- Stats -->
 <hr>
 <div>
-  <h4> Github Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></h4>
-  <br><br>
-  <div style="display: flex;">
-    <a href="https://github.com/gabrielferrazz" style="flex: 1; margin-right: 10px; width: 45%;">
-      <img alt="top-langs" align="center" width="100%" src="https://github-readme-stats-seven-navy-90.vercel.app/api/top-langs/?username=gabrielferrazz&layout=compact&langs_count=16&theme=gotham&hide=jupyter%20notebook"/>
-    </a>
-    <a href="https://github.com/gabrielferrazz" style="flex: 1; width: 45%;">
-      <img alt="commits" align="center" width="100%" src="https://github-readme-stats-seven-navy-90.vercel.app/api?username=gabrielferrazz&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide=issues"/>
-    </a>
-  </div>
+<h4> Github Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+<br><br>
+<p>
+<a href="https://github.com/gabrielferrazz">
+<img alt="top-langs" align="center" width="45%" src="https://github-readme-stats-seven-navy-90.vercel.app/api/top-langs/?username=gabrielferrazz&layout=compact&langs_count=16&theme=gotham&hide=jupyter%20notebook"/>
+<a href="https://github.com/gabrielferrazz">
+<img alt="commits" align="center" width="45%" src="https://github-readme-stats-seven-navy-90.vercel.app/api?username=gabrielferrazz&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide=issues"/>
+</p>
 </div>
-</hr>
-
 
 <!-- Snake --->
 <div>
