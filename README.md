@@ -4,7 +4,7 @@
 </p>
 
 <!-- Sobre mim -->
-<hr>
+<br>
 <h1> About me <a href="https://github.com/DenverCoder1/readme-typing-svg"><img align="center" height="40" src="https://readme-typing-svg.herokuapp.com?lines=Brazilian+🇧🇷+🟩;Engenheiro+Mecânico+⚙️;Técnico+Assistente+de+TI+📚;Pythonista+🐍;Front-End+👨‍💻"></a></h1>
 <br>
 
@@ -26,7 +26,7 @@
   
   
 <!-- Habilidades e Frameworks --> 
-<hr>
+<br>
 <h1> Languages & Frameworks & Tools & Abilities <img src="https://i.giphy.com/media/u5DoW5LsP16fiyvyTW/giphy.webp" width="35">
   <br><br>
 <p align="center">
