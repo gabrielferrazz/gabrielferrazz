@@ -65,7 +65,7 @@
 
 <!-- Repositorios -->   
 <hr>
-<h2>👨‍💻 Repositories 👨‍💻</h2>
+<h2> Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/gabrielferrazz/Curso_Python" title="Curso_Python"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielferrazz&repo=Curso_Python&theme=vue-dark&border_color=61dafb&border_radius=10"></a>
