@@ -32,8 +32,8 @@
   <code><img title="Python" height="45" src="images/python-original.svg"></code>
   <code><img title="HTML5" height="45" src="images/html5.svg"></code>
   <code><img title="CSS" height="45" src="images/css.svg"></code>
+  <code><img title="Javascript" height="45" src="images/jsscript.svg"></code>
   <code><img title="GitHub" height="45" src="images/github.svg"></code>
-  <code><img title="Javascript" height="45" src="images/javascript.svg"></code>
 </p>
 </hr>
 
