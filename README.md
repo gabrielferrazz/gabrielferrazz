@@ -20,7 +20,8 @@
   <br>
   📚 Cursos Realizados - Python - SQL - Fortigate - Desenvolvimento Front End
   <br>
-  🚀 Projetos ativos: https://aisummarizegf.netlify.app
+  🚀 Projetos ativos: 
+  https://aisummarizegf.netlify.app
   <br>
 </p>
 </hr>
