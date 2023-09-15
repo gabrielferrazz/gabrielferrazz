@@ -19,6 +19,8 @@
   💻 Viciado em estudar e aprender sobre Tecnologia.
   <br>
   📚 Cursos Realizados - Python - SQL - Fortigate - Desenvolvimento Front End
+  <br>
+  🚀 Projetos ativos: https://aisummarizegf.netlify.app
   <br><br><br>
 </p>
 </hr>
