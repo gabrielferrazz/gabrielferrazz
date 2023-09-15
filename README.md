@@ -22,7 +22,7 @@
   <br>
   🚀 Projetos ativos: 
   <br>
-  https://aisummarizegf.netlify.app
+    • https://aisummarizegf.netlify.app
   <br>
 </p>
 </hr>
