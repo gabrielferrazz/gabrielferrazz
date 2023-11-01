@@ -12,13 +12,13 @@
 <p>
   Olá, me chamo Gabriel Ferraz, sou formado em Engenharia Mecânica, trabalho com Tecnologia & Inovação e sou estudante de desenvolvimento.
   <br><br>
-  🔬 Atualmente estou estudando Python & Desenvolvimento Front End.
+  🔬 Atualmente trabalho como analista de sistemas pleno e estou estudando Desenvolvimento Full Stack.
   <br>
   🎓 Sou formado em Engenharia Mecânica.
   <br>
   💻 Viciado em estudar e aprender sobre Tecnologia.
   <br>
-  📚 Cursos Realizados - Python - SQL - Fortigate - Desenvolvimento Front End
+  📚 Cursos Realizados - Python - SQL - Fortigate - Desenvolvimento Front End - Js 
   <br>
   🚀 Projetos ativos: 
   <br>
