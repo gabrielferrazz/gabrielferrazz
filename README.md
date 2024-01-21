@@ -4,7 +4,7 @@
 </p>
 
 <!-- Sobre mim -->
-<h1> About me <a href="https://github.com/DenverCoder1/readme-typing-svg"><img align="center" height="40" src="https://readme-typing-svg.herokuapp.com?lines=Brazilian+🇧🇷+🟩;Engenheiro+Mecânico+⚙️;Técnico+Assistente+de+TI+📚;Pythonista+🐍;Front-End+👨‍💻"></a></h1>
+<h1> About me <a href="https://github.com/DenverCoder1/readme-typing-svg"><img align="center" height="40" src="https://readme-typing-svg.herokuapp.com?lines=Brazilian+;Engenheiro+Mecânico+⚙️;Analista+de+TI+📚;Pythonista+🐍;Front-End+👨‍💻"></a></h1>
 <br>
 
 
@@ -12,7 +12,7 @@
 <p>
   Olá, me chamo Gabriel Ferraz, sou formado em Engenharia Mecânica, trabalho com Tecnologia & Inovação e sou estudante de desenvolvimento.
   <br><br>
-  🔬 Atualmente trabalho como Assistente de TI pleno e estou estudando Desenvolvimento e Devops 
+  🔬 Atualmente trabalho como Analista TI e estou estudando Desenvolvimento e Devops 
   <br>
   🎓 Sou formado em Engenharia Mecânica.
   <br>
