@@ -4,7 +4,7 @@
 </p>
 
 <!-- Sobre mim -->
-<h1> About me <a href="https://github.com/DenverCoder1/readme-typing-svg"><img align="center" height="40" src="https://readme-typing-svg.herokuapp.com?lines=Brazilian+;Engenheiro+Mecânico+⚙️;Analista+de+TI+📚;Pythonista+🐍;Front-End+👨‍💻"></a></h1>
+<h1> About me <a href="https://github.com/DenverCoder1/readme-typing-svg"><img align="center" height="40" src="https://readme-typing-svg.herokuapp.com?lines=Brazilian+🇧🇷;Engenheiro+Mecânico+⚙️;Analista+de+TI+📚;Pythonista+🐍;Front-End+👨‍💻"></a></h1>
 <br>
 
 
