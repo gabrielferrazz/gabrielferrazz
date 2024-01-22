@@ -10,7 +10,7 @@
 
 <!-- Descrição -->
 <p>
-  Olá, me chamo Gabriel Ferraz, sou formado em Engenharia Mecânica, sou Analista Jr de Tecnologia & Inovação e sou estudante de desenvolvimento.
+  Olá, me chamo Gabriel Ferraz, sou formado em Engenharia Mecânica, sou Analista Jr de Tecnologia & Inovação e sou estudante de desenvolvimento e Devops.
   <br><br>
   🔬 Atualmente trabalho como Analista TI e estou estudando Desenvolvimento e Devops 
   <br>
