@@ -39,6 +39,7 @@
   <code><img title="Javascript" height="45" src="images/jsscript.svg"></code>
   <code><img title="GitHub" height="45" src="images/github.svg"></code>
   <code><img title="MongoDB" height="45" src="images/mongodb.png"></code>
+  <code><img title="Dbeaver" height="45" src="images/dbeaver.png"></code>
 </p>
 </hr>
 
