@@ -51,7 +51,9 @@
 <!-- Stats -->
 <hr>
 <div>
+  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrielferrazz&theme=aura)
+
 </div>
 
 
