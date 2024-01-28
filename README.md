@@ -27,11 +27,10 @@
 </p>
 </hr>
   
-  
 <!-- Habilidades e Frameworks --> 
 <br>
 <h1> Languages & Frameworks <img src="https://i.giphy.com/media/u5DoW5LsP16fiyvyTW/giphy.webp" width="35"></h1>
-  <br><br>
+  <br>
 <p align="center">
   <code><img title="Python" height="45" src="images/python-original.svg"></code>
   <code><img title="HTML5" height="45" src="images/html5.svg"></code>
@@ -44,9 +43,6 @@
   <code><img title="VisualStudioCode" height="45" src="images/vs1.png"></code>
 </p>
 </hr>
-
-
-
 
 <!-- Stats -->
 <div>
