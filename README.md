@@ -43,6 +43,7 @@
   <code><img title="VisualStudioCode" height="45" src="images/vs1.png"></code>
 </p>
 </hr>
+<br>
 
 <!-- Stats -->
 <div>
