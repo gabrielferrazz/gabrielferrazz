@@ -51,7 +51,9 @@
 <!-- Stats -->
 <hr>
 <div style="width: 420px;">
-    ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrielferrazz&theme=github_dark)
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrielferrazz&theme=github_dark)
+    
 </div>
 
 
