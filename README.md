@@ -72,6 +72,7 @@
 
 <!-- Repositorios -->   
 <hr>
+<div>
 <h2> Rpositórios 📚</h2>
 <br>
 <div width="100%" align="center">
@@ -84,7 +85,7 @@
   <a align="right" href="https://github.com/gabrielferrazz/API_Cotacoes" title="API_Cotacoes"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielferrazz&repo=API_Cotacoes&theme=vue-dark&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
-
+</div>
 <!-- <h4 align="center">
   <a href="https://github.com/gabrielferrazz?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
