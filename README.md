@@ -23,11 +23,9 @@
   🚀 Projetos ativos: 
   <br>
     •  https://aisummarizegf.netlify.app
-  <br>
 </p>
   
 <!-- Habilidades e Frameworks --> 
-<br>
 <h1> Languages & Frameworks <img src="https://i.giphy.com/media/u5DoW5LsP16fiyvyTW/giphy.webp" width="35"></h1>
 <p align="center">
   <code><img title="Python" height="45" src="images/python-original.svg"></code>
