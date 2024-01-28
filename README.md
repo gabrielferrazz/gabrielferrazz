@@ -63,7 +63,6 @@
     <img alt="github-snake" src="https://github.com/gabrielferrazz/gabrielferrazz/blob/output/github-snake.svg">
   </picture>
 </div>
-</hr>
 
 
 <!-- Repositorios -->   
