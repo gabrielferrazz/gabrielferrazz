@@ -66,7 +66,6 @@
 
 
 <!-- Repositorios -->   
-<hr>
 <div>
 <h1> Rpositórios 📚</h1>
 <br>
