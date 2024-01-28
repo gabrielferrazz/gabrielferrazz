@@ -40,6 +40,7 @@
   <code><img title="GitHub" height="45" src="images/github.svg"></code>
   <code><img title="MongoDB" height="45" src="images/mongodb.png"></code>
   <code><img title="Dbeaver" height="45" src="images/dbeaver.png"></code>
+  <code><img title="Docker" height="45" src="images/docker.png"></code>
 </p>
 </hr>
 
