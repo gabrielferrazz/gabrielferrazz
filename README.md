@@ -30,7 +30,6 @@
 <!-- Habilidades e Frameworks --> 
 <br>
 <h1> Languages & Frameworks <img src="https://i.giphy.com/media/u5DoW5LsP16fiyvyTW/giphy.webp" width="35"></h1>
-  <br>
 <p align="center">
   <code><img title="Python" height="45" src="images/python-original.svg"></code>
   <code><img title="HTML5" height="45" src="images/html5.svg"></code>
