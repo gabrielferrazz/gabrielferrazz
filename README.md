@@ -98,8 +98,8 @@
 <img height="35" alt="GIF" src="https://github.com/gabrielferrazz/gabrielferrazz/blob/main/images/spotify.gif"/>
 <br>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=di7xdturwkhrt0am8xaqz5bsg&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=di7xdturwkhrt0am8xaqz5bsg&redirect=true)
-  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=di7xdturwkhrt0am8xaqz5bsg&cover_image=true&theme=default&show_offline=true&background_color=1c2635&interchange=false&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=di7xdturwkhrt0am8xaqz5bsg&redirect=true)
+
 </div>
 <div>
 
