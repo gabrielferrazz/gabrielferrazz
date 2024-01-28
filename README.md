@@ -41,7 +41,7 @@
   <code><img title="MongoDB" height="45" src="images/mongodb.png"></code>
   <code><img title="Dbeaver" height="45" src="images/dbeaver.png"></code>
   <code><img title="Docker" height="45" src="images/docker.png"></code>
-  <code><img title="VScode" height="45" src="images/vscode.png"></code>
+  <code><img title="VisualStudioCode" height="45" src="images/vs1.png"></code>
 </p>
 </hr>
 
