@@ -50,17 +50,10 @@
 
 <!-- Stats -->
 <hr>
-<div>
-  
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrielferrazz&theme=github_dark){:style="width: 420px;"}
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielferrazz&theme=github_dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabrielferrazz&theme=github_dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gabrielferrazz&theme=github_dark&utcOffset=8)
-
+<div style="width: 420px;">
+    ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrielferrazz&theme=github_dark)
 </div>
+
 
 
 <!-- Snake --->
