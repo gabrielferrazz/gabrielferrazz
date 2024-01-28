@@ -25,7 +25,6 @@
     •  https://aisummarizegf.netlify.app
   <br>
 </p>
-</hr>
   
 <!-- Habilidades e Frameworks --> 
 <br>
