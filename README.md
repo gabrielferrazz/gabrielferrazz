@@ -85,11 +85,11 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 
-<h4 align="center">
+<!-- <h4 align="center">
   <a href="https://github.com/gabrielferrazz?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 </hr>
-
+-->   
 <div>
 <div align="center" >
 <sumary><img height="20" alt="GIF" src="https://github.com/gabrielferrazz/gabrielferrazz/blob/main/images/spotify.gif"/> Ferraz Spotify Data</sumary><br>
