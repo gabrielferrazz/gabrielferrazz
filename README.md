@@ -51,13 +51,7 @@
 <!-- Stats -->
 <hr>
 <div>
-
-<img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrielferrazz&theme=aura/>
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielferrazz&theme=aura)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabrielferrazz&theme=aura)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrielferrazz&theme=aura)
 </div>
 
 
