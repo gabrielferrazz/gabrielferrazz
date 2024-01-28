@@ -93,9 +93,8 @@
 <div>
 <div>
 <details>
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=di7xdturwkhrt0am8xaqz5bsg">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=di7xdturwkhrt0am8xaqz5bsg" alt="Data Card for Spotify">
-</a>
+<summary><img height="20" alt="GIF" src="https://github.com/gabrielferrazz/gabrielferrazz/blob/main/images/spotify.gif"/> Ferraz Spotify Data</summary>
+<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=di7xdturwkhrt0am8xaqz5bsg" alt="Data Card for Spotify">
 </details>
 </div>
 <div>
