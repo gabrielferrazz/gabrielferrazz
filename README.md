@@ -52,9 +52,9 @@
 <div>
 <h1> Github Stats <img height="35" alt="GIF" src="https://github.com/gabrielferrazz/gabrielferrazz/blob/main/images/graphic.gif?raw=true"/></h1>
   
-<img align="right" alt="GitHub Details" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrielferrazz&theme=github_dark"/>
-<img alt="GitHub Top Langs" width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielferrazz&theme=github_dark"/>
-<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabrielferrazz&theme=github_dark"/>
+<img alt="GitHub Details" width="230px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrielferrazz&theme=github_dark"/>
+<img alt="GitHub Top Langs" width="480px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielferrazz&theme=github_dark"/>
+<img alt="GitHub Stats" width="230px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabrielferrazz&theme=github_dark"/>
 </div>
 
 
