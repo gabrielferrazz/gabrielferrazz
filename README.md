@@ -65,7 +65,7 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gabrielferrazz/gabrielferrazz/blob/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/gabrielferrazz/gabrielferrazz/blob/output/github-snake.svg">
     <img alt="github-snake" src="https://github.com/gabrielferrazz/gabrielferrazz/blob/output/github-snake.svg">
-  </picture> 
+  </picture>
 </div>
 </hr>
 
@@ -86,11 +86,6 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 </div>
-<!-- <h4 align="center">
-  <a href="https://github.com/gabrielferrazz?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
-</hr>
--->   
 
 <hr>
 <div>
