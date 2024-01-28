@@ -90,6 +90,12 @@
 </h4>
 </hr>
 
+<div>
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=di7xdturwkhrt0am8xaqz5bsg">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=di7xdturwkhrt0am8xaqz5bsg" alt="Data Card for Spotify">
+</a>
+</div>
+
 <!-- Rodapé -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
