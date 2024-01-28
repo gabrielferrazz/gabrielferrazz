@@ -38,7 +38,7 @@
   <code><img title="CSS" height="45" src="images/css.svg"></code>
   <code><img title="Javascript" height="45" src="images/jsscript.svg"></code>
   <code><img title="GitHub" height="45" src="images/github.svg"></code>
-  <code><img title="MongoDB" height="45" src="images/mongodb.svg"></code>
+  <code><img title="MongoDB" height="45" src="images/mongodb.png"></code>
 </p>
 </hr>
 
