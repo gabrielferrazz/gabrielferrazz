@@ -33,15 +33,15 @@
 <h1> Languages & Frameworks <img src="https://i.giphy.com/media/u5DoW5LsP16fiyvyTW/giphy.webp" width="35">
   <br><br>
 <p align="center">
-  <code><img title="Python" height="40" src="images/python-original.svg"></code>
-  <code><img title="HTML5" height="40" src="images/html5.svg"></code>
-  <code><img title="CSS" height="40" src="images/css.svg"></code>
-  <code><img title="Javascript" height="40" src="images/jsscript.svg"></code>
-  <code><img title="GitHub" height="40" src="images/github.svg"></code>
-  <code><img title="MongoDB" height="40" src="images/mongodb.png"></code>
-  <code><img title="Dbeaver" height="40" src="images/dbeaver.png"></code>
-  <code><img title="Docker" height="40" src="images/docker.png"></code>
-  <code><img title="VisualStudioCode" height="40" src="images/vs1.png"></code>
+  <code><img title="Python" height="30" src="images/python-original.svg"></code>
+  <code><img title="HTML5" height="30" src="images/html5.svg"></code>
+  <code><img title="CSS" height="30" src="images/css.svg"></code>
+  <code><img title="Javascript" height="30" src="images/jsscript.svg"></code>
+  <code><img title="GitHub" height="30" src="images/github.svg"></code>
+  <code><img title="MongoDB" height="30" src="images/mongodb.png"></code>
+  <code><img title="Dbeaver" height="30" src="images/dbeaver.png"></code>
+  <code><img title="Docker" height="30" src="images/docker.png"></code>
+  <code><img title="VisualStudioCode" height="30" src="images/vs1.png"></code>
 </p>
 </hr>
 
