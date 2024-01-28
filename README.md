@@ -94,8 +94,9 @@
 
 <hr>
 <div>
-<div align="center" >
-<sumary><img height="35" alt="GIF" src="https://github.com/gabrielferrazz/gabrielferrazz/blob/main/images/spotify.gif"/> Ferraz Spotify Data </sumary><br>
+<div align="center" height="35" >
+<img alt="GIF" src="https://github.com/gabrielferrazz/gabrielferrazz/blob/main/images/spotify.gif"/> Ferraz Spotify Data <br>
+</div>
 <img height="400" width="100%" src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=di7xdturwkhrt0am8xaqz5bsg" alt="Data Card for Spotify">
 </div>
 <div>
