@@ -49,7 +49,7 @@
 <!-- Stats -->
 <hr>
 <div>
-<h4> Github Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+<h1> Github Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 <br><br>
 <p>
 <a href="https://github.com/gabrielferrazz">
@@ -73,7 +73,7 @@
 <!-- Repositorios -->   
 <hr>
 <div>
-<h2> Rpositórios 📚</h2>
+<h1> Rpositórios 📚</h1>
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/gabrielferrazz/Curso_Python" title="Curso_Python"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielferrazz&repo=Curso_Python&theme=vue-dark&border_color=61dafb&border_radius=10"></a>
