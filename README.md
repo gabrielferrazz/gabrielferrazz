@@ -52,7 +52,7 @@
 <hr>
 <div>
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrielferrazz&theme=github_dark)
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrielferrazz&theme=github_dark){:style="width: 420px;"}
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielferrazz&theme=github_dark)
 
