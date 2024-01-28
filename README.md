@@ -45,8 +45,13 @@
 </p>
 </hr>
 
+![gabrielferrazz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielferrazz&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
-<!-- Stats -->
+
+
+
+
+<!-- Stats
 <hr>
 <div>
 <h1> Github Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
@@ -58,7 +63,7 @@
 <img alt="commits" align="center" height="170" src="https://github-readme-stats-seven-navy-90.vercel.app/api?username=gabrielferrazz&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide=issues"/>
 </p>
 </div>
-
+-->
 <!-- Snake --->
 <div>
   <picture>
