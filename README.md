@@ -78,7 +78,7 @@
 <br/><br/><br/><br/><br/><br/>
 </div>
 
-<!-- Spotify -->
+<!-- Spotify
 <hr>
 <div>
 <div align="center">
@@ -89,9 +89,10 @@
 
 </div>
 <div>
-
+ -->
+ 
 &nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/di7xdturwkhrt0am8xaqz5bsg)
 </div>
 
 <!-- Rodapé -->
