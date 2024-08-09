@@ -82,7 +82,7 @@
 <hr>
 <div>
 <div align="center">
-<img height="35" alt="GIF" src="https://github.com/gabrielferrazz/gabrielferrazz/blob/main/images/spotify.gif"/>
+<img height="25" alt="GIF" src="https://github.com/gabrielferrazz/gabrielferrazz/blob/main/images/spotify.gif"/>
 <br>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=di7xdturwkhrt0am8xaqz5bsg&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
