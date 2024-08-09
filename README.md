@@ -78,22 +78,17 @@
 <br/><br/><br/><br/><br/><br/>
 </div>
 
-<!-- Spotify
+<!-- Spotify  -->
 <hr>
 <div>
 <div align="center">
 <img height="35" alt="GIF" src="https://github.com/gabrielferrazz/gabrielferrazz/blob/main/images/spotify.gif"/>
 <br>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=di7xdturwkhrt0am8xaqz5bsg&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&bar_color=3da239)](https://spotify-github-profile.vercel.app/api/view?uid=di7xdturwkhrt0am8xaqz5bsg&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=di7xdturwkhrt0am8xaqz5bsg&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
 <div>
- -->
- 
-&nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/di7xdturwkhrt0am8xaqz5bsg)
-</div>
 
 <!-- Rodapé -->
 <p align="center">
