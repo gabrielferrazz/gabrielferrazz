@@ -19,12 +19,19 @@
   💻 Viciado em estudar e aprender sobre novas ferramentas.
   <br>
   📚 Cursos Realizados
+  <br>
   • Python
+  <br>
   • SQL
+  <br>
   • Fortigate
+  <br>
   • Desenvolvimento Front End
+  <br>
   • Javascrit
+  <br>
   • Docker e Kubernets
+  <br>
   • Power BI Business Intelligence e Data Science
   <br>
   🚀 Projetos ativos: 
