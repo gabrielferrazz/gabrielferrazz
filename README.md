@@ -36,7 +36,8 @@
   <br>
   🚀 Projetos ativos: 
   <br>
-    •  https://aisummarizegf.netlify.app
+    •  https://aisummarizegf.netlify.app/
+    •  https://imersao-frontend-six.vercel.app/
 </p>
   
 <!-- Habilidades e Frameworks --> 
