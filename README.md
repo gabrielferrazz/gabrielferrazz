@@ -37,6 +37,7 @@
   🚀 Projetos ativos: 
   <br>
     •  https://aisummarizegf.netlify.app/
+  <br>
     •  https://imersao-frontend-six.vercel.app/
 </p>
   
