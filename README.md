@@ -94,7 +94,8 @@
 <br/><br/><br/><br/><br/><br/>
 </div>
 
-<!-- Spotify  -->
+<!--
+<!-- Spotify 
 <hr>
 <div>
 <div align="center">
@@ -105,7 +106,7 @@
 
 </div>
 <div>
-
+--->
 <!-- Rodapé -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
